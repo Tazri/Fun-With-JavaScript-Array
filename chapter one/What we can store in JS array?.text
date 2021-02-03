@@ -1,0 +1,8 @@
+>>> What we can store in JS array? <<<
+
+
+>> Any kind of data store in JS array. If we want to store multi type of data store in single array, we do it easily.
+>> let multiTypeOfData = [Object,Array,String,Boolean,Number,undefined,null];
+
+>> We can store multi type of data in a single array but it not good. 
+>> We try to store one kind of data in a single array. It is best practice.

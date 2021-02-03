@@ -1,0 +1,26 @@
+>>> What is array?
+
+> Array is one kind of data collection where store collection of data.
+
+>>> Why need array?
+
+>  Array use for store multiple data in one variable. This is use to easy to control data in programming.
+
+
+>>> Example of array in JavaScript?
+
+> let arrayOne = ['Md Tazri','Pentm Focasa','Focasa','Pentm'];
+
+>>> What is array index?
+
+> Array index is position of specific element. First element of array index is 0 for ever.Then next element is 1 then 2 ....
+
+>>> Who to access array element ?
+
+> Access array element is easy.like:
+> let element = arrayOne[3];
+> In that case, element access 3 no posision element of array.
+
+>>> What is array length?
+
+> Array length is who many element exits in array.

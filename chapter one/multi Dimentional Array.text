@@ -1,0 +1,20 @@
+>>> What is multi dimentional array? <<<
+
+
+>> Basically multi dimentional array is array of array. Example:
+
+>> let multiDimentionalArray = [
+    [1,2,3,4,5],
+    [3,2,3,2,4],
+    [3,2,3,2,3],
+    [3,3,2,4,3]
+]
+
+>>> How to access multi dimentional array?
+
+>> let element = multiDimentionalArray[i][j];
+>> In that case i control the row and j control the column. i represent the row and j represent the column.
+
+>>> How to traverse multi dimentional array?
+
+>> We need to two loop for traverse multi dimentional array. First loop control the rows and second loop control the column.

@@ -1,0 +1,25 @@
+>>> How dose array work in JavaScript? <<<
+
+
+
+> JavaScript array is simple and it work like any other programming language. But some aventage in JavaScript and this is:
+
+>> Can not define array range.
+>> Can not define what kind of data store in JavaScript array.
+>> Can not clear garbage data in JavaScript array.
+>> Automatic increase and decrease array range.
+
+>>> How to define array in JavaScript?
+
+>> let arrayOne = [];
+>> It call array literal. 
+
+>>> How to store data in array?
+
+>> arrayOne[0] = 'Md Tazri';
+>> arrayOne[1] = 'Pentm Focasa';
+>> arrayOne[2] = 'Focasa';
+
+>> another way to store data in array:
+>> let arrayOne = ['Md Tazri','Pentm Focasa','Focasa'];
+
